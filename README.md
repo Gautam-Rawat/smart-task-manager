@@ -21,7 +21,7 @@ server/ → Backend APIs
 ## ⚙️ Setup Instructions
 
 ### Clone the repository
-git clone https://github.com/YOUR_USERNAME/smart-task-manager.git
+git clone https://github.com/Gautam-Rawat/smart-task-manager.git
 
 ### Install dependencies
 cd client && npm install  
